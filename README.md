@@ -1051,30 +1051,6 @@ Thus, the implementation demonstrates how Feast can provide a consistent feature
 
 ---
 
-## Project Structure
-
-A typical project structure for this implementation is:
-
-```text
-231FA04497-MLOps-Feast-SkillGap/
-│
-├── data/
-│   └── curriculum_features.parquet
-│
-├── feature_repo/
-│   ├── feature_store.yaml
-│   └── curriculum_features.py
-│
-├── notebooks/
-│   └── Lab3_Feast.ipynb
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 ## Key Feast Commands
 
 ### Apply Feast Definitions
