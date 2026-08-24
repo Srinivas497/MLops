@@ -5,6 +5,8 @@ Lab2(Preprocessing)-https://colab.research.google.com/drive/1njDuuoPXCykQ-ibBOqp
 
 Lab3(feast based feature store)-https://colab.research.google.com/drive/1ErWER5RF2_HYZR-N-2KBUQUTNkvNgJYK
 
+Lab4(ML_Flow)-https://colab.research.google.com/drive/1Pxx9UrvdIUHbmKnnsAMybZOo8rLuDywV#scrollTo=WED6UwJWR6Ob
+
 
 
 # Curriculum-Industry Skill Feature Store Using Feast
