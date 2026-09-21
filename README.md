@@ -7,6 +7,7 @@ Lab3(feast based feature store)-https://colab.research.google.com/drive/1ErWER5R
 
 Lab4(ML_Flow)-https://colab.research.google.com/drive/1Pxx9UrvdIUHbmKnnsAMybZOo8rLuDywV#scrollTo=WED6UwJWR6Ob
 
+Lab3-https://colab.research.google.com/drive/1rzaD1jhW0R40LKG2mb71_7-p9E2IYl-7#scrollTo=Ko-RQg4Njd-X
 
 
 # Curriculum-Industry Skill Feature Store Using Feast
